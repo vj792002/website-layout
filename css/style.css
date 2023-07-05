@@ -1,0 +1,371 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container{
+	width:1170px;
+	margin:0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_container{
+	display:flex;
+	flex-wrap:wrap;
+	margin-left:-15px;
+	margin-right:-15px;
+}
+.flex_item1{
+	width:8.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item2{
+	width:16.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item3{
+	width:25%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item4{
+	width:33.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item5{
+	width:41.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item6{
+	width:50%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item7{
+	width:58.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item8{
+	width:66.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item9{
+	width:75%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item10{
+	width:83.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item11{
+	width:91.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item12{
+	width:100%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+/*head section starts*/
+.head{
+	background-color:black;
+	padding:20px 0;
+}
+.logo{
+	background-color:red;
+	height:50px;
+	width:auto;
+}
+.navbar{
+	background-color:red;
+	height:50px;
+	width:auto;
+}
+/*navbar ends*/
+
+/*head section ends*/
+
+/*banner section starts*/
+.banner{
+	background-color:red;
+	padding:80px 0;
+}
+/*banner  ban_cnt starts*/
+.ban_cnt{
+	background-color:black;
+	height:200px;
+	width:auto;
+}
+/*banner  ban_cnt ends*/
+/*banner section ends*/
+
+/*list section starts*/
+.list{
+	background-color:black;
+	padding:50px 0;
+}
+.lst_cnt{
+	background-color:red;
+	height:50px;
+	width:auto;
+}
+/*list section ends*/
+
+/*para section starts*/
+.para{
+	background-color:red;
+	padding:30px 0;
+}
+.para_cnt{
+	height:300px;
+	width:auto;
+	background-color:black;
+}
+.para_cnt_1{
+	height:300px;
+	width:auto;
+	background-color:black;
+}
+/*para section ends*/
+
+/*list1 section starts*/
+.list1{
+	background-color: black;
+	padding:50px 0;
+}
+.lst1_cnt{
+	background-color: red;
+	height:70px;
+	width:auto;
+}
+/*list1 section ends*/
+
+/*list2 section starts*/
+.list2{
+	background-color:red;
+	padding:20px 0;
+}
+.lst2_cnt{
+	height:70px;
+	width:auto;
+	background-color:black;
+}
+/*list2 section ends*/
+
+
+/* data section starts */
+.data{
+	background-color: black;
+	padding:20px 0;
+}
+.para1{
+	height:400px;
+	width:auto;
+	background-color: red;
+}
+.img{
+	height:400px;
+	width:auto;
+	background-color: red;
+}
+/* data section ends */
+
+/* banner1 section starts */
+.banner1{
+	background-color: red;
+	padding:20px 0;
+}
+.heading{
+	height:80px;
+	width:auto;
+	background-color: black;
+	margin-bottom:10px;
+}
+.heading1{
+	height:80px;
+	width:auto;
+	background-color: black;
+}
+.content{
+	height:150px;
+	width:auto;
+	background-color: black;
+	margin-top:10px;
+}
+/* banner1 section ends */
+
+/* title section starts */
+.title{
+	background: black;
+	padding:20px 0;
+}
+.title_cnt{
+	height:70px;
+	width:auto;
+	background-color: red;
+	margin-bottom:20px;
+}
+.option{
+	height:50px;
+	width:auto;
+	background: red;
+}
+.cnt{
+	height:300px;
+	width:auto;
+	background-color: red;
+	margin-top:15px;
+}
+/* title section ends */
+
+/*title1 section starts*/
+.title1{
+	background-color: red;
+	padding:20px 0;
+}
+.flex_cnt{
+	height:70px;
+	width:auto;
+	background-color: black;
+	margin-top:15px;
+}
+.option{
+	height:250px;
+	width:auto;
+	background-color:black;
+	margin-top:15px;
+}
+/*title1 section ends */
+
+/* title3 secion starts */
+.title3{
+	background-color: black;
+	padding:30px 0;
+}
+.para2{
+	height: 70px;
+	width:auto;
+	background-color: red;
+	margin-top:15px;
+}
+.content1{
+	height:450px;
+	width:auto;
+	background-color: red;
+	margin-top:15px;
+}
+/* title3 section ends */
+
+/* listbar section starts */
+.listbar{
+	background-color: red;
+	padding:30px 0;
+}
+.bar_cnt{
+	height:50px;
+	width:auto;
+	background-color: black;
+	margin-top:15px;
+}
+/* listbar section ends */
+
+/* card section starts */
+.card{
+	background-color: black;
+	padding:30px 0;
+}
+.card_title{
+	height:70px;
+	width:auto;
+	background-color: red;
+	margin-top:15px;
+}
+.card_cnt{
+	height:400px;
+	width:auto;
+	background-color: red;
+	margin-top:15px;
+}
+/* card section ends */
+
+/* contact section starts */
+.contact{
+	background-color: red;
+	padding:30px 0;
+}
+.con_title{
+	height: 70px;
+	width: auto;
+	background-color: black;
+	margin-top: 15px;
+}
+.con_left{
+	height:500px;
+	width: auto;
+	background-color:black;
+	margin-top: 10px;
+	padding:10px 0;
+	display:flex;
+	flex-wrap:wrap;
+}
+.con_addr{
+	height:150px;
+	background-color: red;
+	margin:10px 0;
+}
+.con_mail{
+	height:300px;
+	width:auto;
+	background-color: red;
+}
+.con_call{
+	height:300px;
+	width: auto;
+	background-color: red;
+}
+/* contact section ends */
+
+/* last section starts */
+.last{
+	background-color: black;
+	padding:20px 0;
+}
+.last_cnt{
+	height:300px;
+	width:auto;
+	background-color: red;
+}
+/* last section ends */
+
+/* end section starts */
+.end{
+	background-color: red;
+	padding:20px 0;
+}
+.end_cnt{
+	height:80px;
+	width: auto;
+	background-color: black;
+}
+/* end section ends */
